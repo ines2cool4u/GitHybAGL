@@ -1,1 +1,1 @@
-# GitHybAGL
+# GitHubAGL
